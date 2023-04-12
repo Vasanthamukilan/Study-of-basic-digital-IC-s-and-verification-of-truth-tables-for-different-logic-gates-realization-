@@ -77,10 +77,10 @@ endmodule
 ## Logic symbol & Truthtable
 ![Screenshot 2023-04-12 142827](https://user-images.githubusercontent.com/119559694/231407515-ff86222a-cca1-4a9d-a716-7e53a37909fd.png)
 
-## Output:
+## RDL:
 ![Screenshot 2023-04-01 195024](https://user-images.githubusercontent.com/119559694/229294801-1a3080a8-abc5-46b6-9762-041bc8acee81.png)
 
-## RTL:
+## OUTPUT:
 ![Screenshot 2023-04-01 193942](https://user-images.githubusercontent.com/119559694/229294824-303f203f-caa5-4ebd-ac22-4d8919a5d845.png)
 
 ## Result:
